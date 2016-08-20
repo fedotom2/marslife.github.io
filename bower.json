@@ -1,0 +1,20 @@
+{
+  "name": "marslife.github.io",
+  "homepage": "https://github.com/fedotom2/marslife.github.io",
+  "authors": [
+    "fedotom <fedotom2@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
